@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Shivam Kumar (Pre Final Year B.Tech. MNNIT Allahabad)
+### I am Shivam Kumar (Final Year B.Tech. MNNIT Allahabad)
 
 
   ###  - 🔭 I am a web developer and a tech enthusiast and I like to experiment with new technologies.
